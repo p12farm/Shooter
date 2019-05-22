@@ -16,7 +16,7 @@ var Credits = {
 		end5 = game.add.bitmapText(250, 1600, 'spacefont', 'but...', 25);
 		end6 = game.add.bitmapText(250, 1800, 'spacefont' , 'I like it.', 25);
 		end7 = game.add.bitmapText(250, 2000, 'spacefont', 'so..', 25);
-		end8 = game.add.bitmapText(250, 2200,'spacefont', 'I home you enjoyed it', 25);
+		end8 = game.add.bitmapText(250, 2200,'spacefont', 'I hope you enjoyed it', 25);
 		end9 = game.add.bitmapText(250, 2400,'spacefont', 'Thank you',25);
 		end10 = game.add.bitmapText(250, 2600,'spacefont', 'Till the next game.', 25);
 
